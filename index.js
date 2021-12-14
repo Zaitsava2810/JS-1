@@ -54,3 +54,14 @@ let width=10;
 let sm="см";
 let S=heigh*width+sm;
 console.log(S);
+
+// Task 6
+console.log("Task 6");
+
+let n=3;
+let m=4;
+let step=2;
+
+let k1=Math.pow(n, step)+Math.pow(m, step);
+let k=Math.sqrt(k1);
+console.log(k);
