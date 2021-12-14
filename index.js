@@ -55,6 +55,18 @@ let sm="см";
 let S=heigh*width+sm;
 console.log(S);
 
+// Task 5
+console.log("Task 5");
+
+let heightC=10;
+let dC=4;
+let mm="m";
+let Pi=3.14;
+
+let Sc=dC*Pi;
+let V=Sc*heightC+mm;
+console.log(V);
+
 // Task 6
 console.log("Task 6");
 
